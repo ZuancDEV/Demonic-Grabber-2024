@@ -5,7 +5,7 @@
 3) If the script files didnt work or load, open the 'create_target_file' and run the .exe. Antivirus and Windows Security must be closed for the script to work.
 
 
-|THIS SCRIPT was made for **Educational purposes|
+|THIS SCRIPT was made for Educational purposes|
 |-------------------------------------------------|
 This project was created only for good purposes and personal use.
 By using THIS SCRIPT, you agree that you hold responsibility and accountability of any consequences caused by your actions.
